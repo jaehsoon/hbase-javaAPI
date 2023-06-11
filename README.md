@@ -1,6 +1,6 @@
 # hbase-javaAPI
 
-This java file is written for the purpose of an assignment. in the assignment, we are to compare the tools of big data such as Hive, Pig and Spark.
+This java file is written for the purpose of an assignment. In the assignment, we are to compare the tools of big data such as Hive, Pig and Spark.
 The comparisons of the tools are in their runtime of the queries on the data.
 Since HBase could not run scripts like SQL, a java application is needed to run and process the data.
 
