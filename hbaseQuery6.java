@@ -80,7 +80,7 @@ public class hbaseQuery6 {
     String maxTotalSalesCountry = Collections.max(country_sales.entrySet(),Map.Entry.comparingByValue()).getKey();
     
     // Print the country with maximum total sale
-    System.out.println(maxTotalSalesCountry + " is the highest total sales amount of: " + maxTotalSales);
+    System.out.println(maxTotalSalesCountry + " has the highest total sales amount of: " + maxTotalSales);
 
     // closing the scanner
     scanner.close();
